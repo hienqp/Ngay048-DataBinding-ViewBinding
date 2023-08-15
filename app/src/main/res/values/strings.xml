@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">View Binding</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="second">SECOND</string>
+</resources>
